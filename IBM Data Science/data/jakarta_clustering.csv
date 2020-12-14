@@ -1,0 +1,45 @@
+,Neighborhood,Town,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+0,Cempaka Putih,Central Jakarta,-6.181214499999999,106.86854766095992,3,Pizza Place,Acehnese Restaurant,Pool,Indonesian Meatball Place,BBQ Joint
+1,Gambir,Central Jakarta,-6.1766841,106.8306534,3,Indonesian Restaurant,Park,Coffee Shop,Fast Food Restaurant,Food Court
+2,Johar Baru,Central Jakarta,-6.18312505,106.85533232560866,4,Food Truck,Convenience Store,Arcade,Indonesian Restaurant,Italian Restaurant
+3,Kemayoran,Central Jakarta,-6.1625464999999995,106.85689034074326,4,Diner,Arcade,Indonesian Restaurant,Noodle House,Wine Bar
+4,Menteng,Central Jakarta,-6.1950265,106.83222419920054,3,Indonesian Restaurant,Breakfast Spot,Coffee Shop,Park,Sushi Restaurant
+5,Sawah Besar,Central Jakarta,-6.155891349999999,106.83357979795008,4,Indonesian Restaurant,Pet Store,Convenience Store,Noodle House,Asian Restaurant
+6,Senen,Central Jakarta,-6.184971,106.84323537475049,4,Hotel,Indonesian Restaurant,Grocery Store,History Museum,University
+7,Tanah Abang,Central Jakarta,-6.2052581,106.80949961953083,4,Indonesian Restaurant,Coffee Shop,Seafood Restaurant,Pizza Place,Noodle House
+9,Cilincing,North Jakarta,-6.12901455,106.944453775,0,Park,Diner,Shopping Mall,Wine Bar,Farmers Market
+10,Kelapa Gading,North Jakarta,-6.15993785,106.9024825763434,4,Indonesian Restaurant,Asian Restaurant,Steakhouse,Korean Restaurant,Japanese Restaurant
+11,Koja,North Jakarta,-6.12074995,106.90736211830226,4,Pizza Place,Indonesian Restaurant,Restaurant,Grocery Store,Donut Shop
+12,Pademangan,North Jakarta,-6.12905175,106.82897199455174,3,Hotel,Pool,Bowling Alley,Theme Park,Vegetarian / Vegan Restaurant
+13,Penjaringan,North Jakarta,-6.11726515,106.76743343432852,3,Boutique,Theme Park,Gift Shop,Grocery Store,Food Truck
+14,Tanjung Priok,North Jakarta,-6.12885785,106.87079323031739,1,Bakery,Wine Bar,Frozen Yogurt Shop,French Restaurant,Food Truck
+16,Cakung,East Jakarta,-6.185562,106.94010945394294,3,Lounge,Gas Station,Wine Bar,French Restaurant,Food Stand
+17,Cipayung,East Jakarta,-6.3293992,106.90373891240544,3,Food,Asian Restaurant,Wine Bar,Frozen Yogurt Shop,French Restaurant
+18,Ciracas,East Jakarta,-6.3296346,106.87660392506864,4,Noodle House,Indonesian Restaurant,Golf Course,Farmers Market,Food Stand
+19,Duren Sawit,East Jakarta,-6.2341378,106.91924723513691,3,Indonesian Meatball Place,Convenience Store,Coffee Shop,Mediterranean Restaurant,Wine Bar
+20,Jatinegara,East Jakarta,-6.2149761,106.8703405,3,Jewelry Store,Asian Restaurant,Arts & Crafts Store,Donut Shop,Food Truck
+21,Kramat Jati,East Jakarta,-6.2754768,106.87037568609199,4,Hospital,Indonesian Restaurant,Seafood Restaurant,Chinese Restaurant,Noodle House
+22,Makasar,East Jakarta,-6.269341300000001,106.8888174965918,4,Indonesian Restaurant,Airport Terminal,Asian Restaurant,Wine Bar,Farmers Market
+23,Matraman,East Jakarta,-6.203624,106.86457858984426,3,Convenience Store,Pizza Place,Electronics Store,Food Stand,Food Court
+24,Pasar Rebo,East Jakarta,-6.324972750000001,106.85337593386294,4,Karaoke Bar,Burger Joint,Bakery,Indonesian Restaurant,Grocery Store
+25,Pulo Gadung,East Jakarta,-6.1911085,106.89060525673162,4,Indonesian Restaurant,Convenience Store,Pizza Place,Café,Athletics & Sports
+27,Cilandak,South Jakarta,-6.2868976,106.7944211,3,Gym,Indonesian Restaurant,Food Truck,Convenience Store,Pizza Place
+28,Jagakarsa,South Jakarta,-6.3300082,106.828191,4,Indonesian Restaurant,Asian Restaurant,Food Court,Arcade,Gym
+29,Kebayoran Baru,South Jakarta,-6.2441457,106.800434,3,Coffee Shop,Japanese Restaurant,Sushi Restaurant,Food Truck,Hotel
+30,Kebayoran Lama,South Jakarta,-6.243886,106.7798594,3,Coffee Shop,Bakery,Clothing Store,Shopping Mall,Satay Restaurant
+31,Mampang Prapatan,South Jakarta,-6.2493736,106.8218597,4,Indonesian Restaurant,Noodle House,Park,Electronics Store,Food Stand
+32,Pancoran,South Jakarta,-6.2532977,106.8449775,4,Indonesian Restaurant,Padangnese Restaurant,Asian Restaurant,Fast Food Restaurant,Restaurant
+33,Pasar Minggu,South Jakarta,-6.2856421,106.8297347,3,Japanese Restaurant,Asian Restaurant,Bus Station,Music Store,Fast Food Restaurant
+34,Pesanggrahan,South Jakarta,-6.2488302,106.759631,4,Convenience Store,Pier,Indonesian Restaurant,Gym,Restaurant
+35,Setiabudi,South Jakarta,-6.218449,106.8300253,3,Coffee Shop,Hotel,Pizza Place,Vietnamese Restaurant,Café
+36,Tebet,South Jakarta,-6.2260164,106.858396,4,Indonesian Restaurant,Café,Bakery,Asian Restaurant,Restaurant
+38,Cengkareng,West Jakarta Barat,-6.1490933,106.734781,3,Music Venue,Pet Store,Restaurant,Movie Theater,Electronics Store
+39,Grogol Petamburan,West Jakarta Barat,-6.1641878,106.78831657883393,3,Noodle House,Chinese Restaurant,Indonesian Restaurant,Hotel,Asian Restaurant
+40,Taman Sari,West Jakarta Barat,-6.14614235,106.8184990440433,3,Chinese Restaurant,Asian Restaurant,Hotel,Karaoke Bar,Restaurant
+41,Tambora,West Jakarta Barat,-6.1466142,106.80104559691304,3,Food Truck,Convenience Store,Tanning Salon,Department Store,Train Station
+42,Kebon Jeruk,West Jakarta Barat,-6.19257205,106.76972548969255,3,Noodle House,Concert Hall,Asian Restaurant,Park,Indonesian Restaurant
+43,Kalideres,West Jakarta Barat,-6.13700575,106.70159379305983,3,Convenience Store,Indonesian Restaurant,Soccer Field,Fried Chicken Joint,Asian Restaurant
+44,Palmerah,West Jakarta Barat,-6.1910017,106.7943633086912,3,Pizza Place,Asian Restaurant,Noodle House,Coffee Shop,Medical Center
+45,Kembangan,West Jakarta Barat,-6.194603,106.7437585,3,Pizza Place,Asian Restaurant,Park,Indonesian Meatball Place,Bubble Tea Shop
+47,Kepulauan Seribu Utara,Kepulauan Seribu,-5.65444335,106.56808375782228,2,Resort,Wine Bar,Electronics Store,Food Stand,Food Court
+48,Kepulauan Seribu Selatan,Kepulauan Seribu,-5.80388725,106.52530628717426,3,Boat or Ferry,Clothing Store,Fast Food Restaurant,French Restaurant,Food Truck

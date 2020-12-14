@@ -1,0 +1,30 @@
+,Neighborhood,Town,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+0,Asemrowo,Surabaya,-7.2417405,112.6888023,4.0,Wine Bar,Fish & Chips Shop,Dessert Shop,Diner,Donut Shop
+1,Benowo,Surabaya,-7.2290546,112.6497746,1.0,Shoe Store,Food Court,Soccer Field,Wine Bar,Dessert Shop
+2,Bubutan,Surabaya,-7.2526708,112.730062,1.0,Indonesian Restaurant,Hotel,Multiplex,Donut Shop,Pizza Place
+3,Bulak,Surabaya,-7.2283541,112.7876305,1.0,Beach,Indonesian Restaurant,Food Truck,Fish & Chips Shop,Dessert Shop
+4,Dukuh Pakis,Surabaya,-7.2930239,112.6951254,0.0,Convenience Store,Mobile Phone Shop,Boutique,Fast Food Restaurant,Diner
+5,Gayungan,Surabaya,-7.3307839,112.7257892,0.0,Asian Restaurant,Convenience Store,Hotel,Café,Boutique
+6,Genteng,Surabaya,-7.2584687,112.7443263,1.0,Soup Place,Furniture / Home Store,Park,Breakfast Spot,Bed & Breakfast
+7,Gubeng,Surabaya,-7.2792947,112.7566645,1.0,Indonesian Restaurant,Food Truck,Electronics Store,Chinese Restaurant,Café
+9,Jambangan,Surabaya,-7.3216981,112.7160173,0.0,Coffee Shop,Convenience Store,Asian Restaurant,Food Truck,Fish & Chips Shop
+10,Karang Pilang,Surabaya,-7.3359139,112.6963053,3.0,Soccer Stadium,Wine Bar,Fish & Chips Shop,Dessert Shop,Diner
+11,Kenjeran,Surabaya,-7.22023,112.771611,1.0,Food Court,Pizza Place,Mosque,Mobile Phone Shop,Wine Bar
+12,Krembangan,Surabaya,-7.2278082,112.7247523,0.0,Convenience Store,Farmers Market,Museum,Coffee Shop,Food Truck
+13,Lakarsantri,Surabaya,-7.305263,112.6468121,2.0,Café,Wine Bar,Fish & Chips Shop,Diner,Donut Shop
+14,Mulyorejo,Surabaya,-7.2679773,112.793519,1.0,Indonesian Restaurant,Coffee Shop,Convenience Store,Pizza Place,Mobile Phone Shop
+15,Pabean Cantian,Surabaya,-7.2273235,112.7359205,1.0,Indonesian Restaurant,History Museum,Food Truck,Café,Farmers Market
+16,Pakal,Surabaya,-7.2258253,112.6157882,1.0,Campground,Wine Bar,Fish & Chips Shop,Diner,Donut Shop
+17,Rungkut,Surabaya,-7.3197324,112.7905362,0.0,Convenience Store,Coffee Shop,Grocery Store,Fast Food Restaurant,Dessert Shop
+18,Sambikerep,Surabaya,-7.2776729,112.662054,1.0,Food Truck,Indonesian Restaurant,Wine Bar,Fast Food Restaurant,Dessert Shop
+19,Sawahan,Surabaya,-7.2736162,112.7200915,2.0,Karaoke Bar,Café,Seafood Restaurant,Convention Center,Diner
+20,Semampir,Surabaya,-7.2195029,112.7489458,1.0,Noodle House,Food,Wine Bar,Fast Food Restaurant,Dessert Shop
+21,Simokerto,Surabaya,-7.2385948,112.7530624,1.0,Seafood Restaurant,Basketball Court,Arcade,Coffee Shop,Market
+22,Sukolilo,Surabaya,-7.2929641,112.7864133,2.0,Café,Supermarket,Steakhouse,Gym / Fitness Center,Asian Restaurant
+23,Sukomanunggal,Surabaya,-7.2685368,112.7009952,2.0,Noodle House,Café,Hardware Store,Soup Place,Juice Bar
+24,Tambaksari,Surabaya,-7.2493412,112.7670031,1.0,Convenience Store,Indonesian Restaurant,Asian Restaurant,Bakery,Noodle House
+26,Tegalsari,Surabaya,-7.2763435,112.7337319,1.0,Convenience Store,Indonesian Restaurant,Pool Hall,Noodle House,Convention Center
+27,Tenggilis Mejoyo,Surabaya,-7.3209085,112.7552486,1.0,Indonesian Restaurant,Food Truck,Grocery Store,Sporting Goods Shop,Hotel
+28,Wiyung,Surabaya,-7.3110038,112.6894997,1.0,Arcade,Diner,Hospital,Café,Breakfast Spot
+29,Wonocolo,Surabaya,-7.3207469,112.740472,1.0,Convenience Store,Bakery,Café,Dumpling Restaurant,Pool Hall
+30,Wonokromo,Surabaya,-7.3051648,112.73119069156793,2.0,Coffee Shop,Café,Wine Bar,Convention Center,Diner
